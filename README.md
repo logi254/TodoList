@@ -1,5 +1,33 @@
 # 📝 TodoList
 
- A simple and interactive React-based Todo List application that allows users to add, edit, delete, complete, and uncomplete tasks. The app also features a dark mode toggle.
+ A simple and interactive React⚛️-based Todo List app that lets users ➕Add, ✏️Edit, 🗑️Delete, ✅Complete, and ❌Uncomplete tasks. The app also has a Dark🌙and light mode toggle.
 
- # Features
+ # 🪄Features
+
+- ➕ New tasks
+
+- ✏️ Existing tasks
+
+- 🗑️ Tasks
+
+- ✅ Tasks as completed
+
+- 🔄 Move completed tasks back
+
+- 🌙 Toggle
+
+ # 🛠️ Technologies Used
+
+- ⚛️ React.js
+
+- 🎨 Tailwind CSS
+
+- 📜 JavaScript
+
+# 📥 Installation
+
+- Clone the repo:
+- ```
+  
+
+```
